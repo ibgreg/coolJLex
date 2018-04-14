@@ -26,9 +26,11 @@ Crie uma pasta para o projeto, abra o terminal dentro do diretório criado e exe
 <br/>
 <code>make -f /usr/class/cs143/assignments/PA2J/Makefile</code>
 <br/>
+<br/>
 <strong>Comando para compilação do analisador léxico (arquivo cool.lex): </strong>
 <br/>
 <code>make lexer</code>
+<br/>
 <br/>
 <strong>Comando para testar o analisador compilado com o arquivo "test.cl": </strong>
 <br/>
